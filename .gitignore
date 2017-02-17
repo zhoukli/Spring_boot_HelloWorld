@@ -1,8 +1,8 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-target/
+/target
+/.settings
+/.classpath
+/.project
+*.epoch
+*.log
+*.iml
+/.idea
